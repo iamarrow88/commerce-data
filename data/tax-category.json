@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Belarus",
+    "key": "standard",
+    "rates": [
+      {
+        "name": "20% incl.",
+        "amount": 0.2,
+        "includedInPrice": true,
+        "country": "BY"
+      },
+      {
+        "name": "20% incl.",
+        "amount": 0.2,
+        "includedInPrice": true,
+        "country": "RU"
+      }
+    ]
+  }
+]

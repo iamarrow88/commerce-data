@@ -1,0 +1,20 @@
+[
+  {
+    "name": "belarus",
+    "description": "",
+    "locations": [
+      {
+        "country": "BY"
+      }
+    ]
+  },
+  {
+    "name": "belarus",
+    "description": "",
+    "locations": [
+      {
+        "country": "RU"
+      }
+    ]
+  }
+]

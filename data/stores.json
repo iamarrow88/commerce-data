@@ -1,0 +1,101 @@
+[
+    {
+        "key": "default",
+        "name": {
+            "en": "Main store",
+            "be": "Галоуны офис",
+            "ru": "Главный офис"
+        }
+    },
+    {
+        "key": "stella",
+        "name": {
+            "en": "Pobediteley str store",
+            "be": "Крама на Пераможцау",
+            "ru": "Магазин на проспекте Победителей"
+        },
+        "languages": [
+            "be",
+            "ru",
+            "en"
+        ]
+    },
+    {
+        "key": "europe",
+        "name": {
+            "en": "Trading center Europe Store",
+            "be": "Крама у ГЦ Еуропа",
+            "ru": "Магазин в ТЦ Европа"
+        },
+        "languages": [
+            "be",
+            "ru",
+            "en"
+        ]
+    },
+    {
+        "key": "vitebsk",
+        "name": {
+            "en": "Vitebsk Store",
+            "be": "Крама у Вицебску",
+            "ru": "Магазин в Витебске"
+        },
+        "languages": [
+            "be",
+            "ru",
+            "en"
+        ]
+    },
+    {
+        "key": "mohilev",
+        "name": {
+            "en": "Mogilev Store",
+            "be": "Крама у Магилеве",
+            "ru": "Магазин в Могилеве"
+        },
+        "languages": [
+            "be",
+            "ru",
+            "en"
+        ]
+    },
+    {
+        "key": "homel",
+        "name": {
+            "en": "Homel Store",
+            "be": "Крама у Гомели",
+            "ru": "Магазин в Гомеле"
+        },
+        "languages": [
+            "be",
+            "ru",
+            "en"
+        ]
+    },
+    {
+        "key": "brest",
+        "name": {
+            "en": "Brest Store",
+            "be": "Крама у Брэсце",
+            "ru": "Магазин в Бресте"
+        },
+        "languages": [
+            "be",
+            "ru",
+            "en"
+        ]
+    },
+    {
+        "key": "hrodno",
+        "name": {
+            "en": "Hrodno Store",
+            "be": "Крама у Гродна",
+            "ru": "Магазин в Гродно"
+        },
+        "languages": [
+            "be",
+            "ru",
+            "en"
+        ]
+    }
+]
