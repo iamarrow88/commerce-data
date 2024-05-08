@@ -1,4 +1,4 @@
-key,externalId,name.by,slug.by,name.ru,slug.ru,name.en,slug.en,parentId,orderHint
+key,externalId,name.be,slug.be,name.ru,slug.ru,name.en,slug.en,parentId,orderHint,webImageUrl,iosImageUrl
 c1,1,Навінкі,new,Новинки,new,New,new,,0.0001,,
 c2,2,Электрычныя самакаты,electric,Электрические самокаты,electric,Electric Scooters,electric,,0.0002,,
 c3,3,Класічныя самакаты,classic,Классические самокаты,classic,Classic Scooters,classic,,0.0003,,
